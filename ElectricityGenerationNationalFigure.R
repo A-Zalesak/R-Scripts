@@ -8,7 +8,7 @@ library(ggpubr)
 time <- proc.time()
 
 ### Set working directory
-setwd("D:/Summer 2022/EPA/For Sharing")
+setwd("SET_BEFORE_USING")
 
 ### Constants and names
 scenarios <- c("BAU", "M", "T", "M+T")
